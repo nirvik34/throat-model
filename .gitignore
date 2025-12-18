@@ -1,0 +1,45 @@
+# =========================
+# Virtual Environments
+# =========================
+venv/
+vrnv/
+.env/
+.venv/
+
+# =========================
+# Python cache & compiled
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+*.log
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor files
+# =========================
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Model / data artifacts (optional)
+# Uncomment if needed
+# =========================
+# *.h5
+# *.pkl
+# *.joblib
+# data/
+# models/
